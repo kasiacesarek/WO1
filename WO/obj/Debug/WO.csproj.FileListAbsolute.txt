@@ -1,0 +1,13 @@
+C:\Users\Katarzyna\source\repos\WO\WO\obj\Debug\WO.okno_glowne.resources
+C:\Users\Katarzyna\source\repos\WO\WO\obj\Debug\WO.Properties.Resources.resources
+C:\Users\Katarzyna\source\repos\WO\WO\obj\Debug\WO.csproj.GenerateResource.Cache
+C:\Users\Katarzyna\source\repos\WO\WO\obj\Debug\WO.csproj.CoreCompileInputs.cache
+C:\Users\Katarzyna\source\repos\WO\WO\bin\Debug\WO.exe.config
+C:\Users\Katarzyna\source\repos\WO\WO\bin\Debug\WO.exe
+C:\Users\Katarzyna\source\repos\WO\WO\bin\Debug\WO.pdb
+C:\Users\Katarzyna\source\repos\WO\WO\obj\Debug\WO.exe
+C:\Users\Katarzyna\source\repos\WO\WO\obj\Debug\WO.pdb
+C:\Users\Katarzyna\source\repos\WO\WO\obj\Debug\WO.csprojResolveAssemblyReference.cache
+C:\Users\Katarzyna\source\repos\WO\WO\obj\Debug\WO.Form3.resources
+C:\Users\Katarzyna\source\repos\WO\WO\obj\Debug\WO.Form4.resources
+C:\Users\Katarzyna\source\repos\WO\WO\obj\Debug\WO.Form5.resources
